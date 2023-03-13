@@ -44,6 +44,18 @@ pip install torch==1.9.0+cu111 torchvision==0.10.0+cu111 torchaudio===0.9.0 -f h
 ./yolov5-sahi/%here%
 ```
 
+✔️ The file structure should be like this:
+
+```bash
+yolov5-sahi/
+    .idea
+    sahi
+    test
+    venv
+    yolov5
+    sahi_predict.py
+```
+
 ## Usage 🔷
 
 ```python
