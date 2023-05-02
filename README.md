@@ -27,7 +27,7 @@ conda activate yolov5sahi
 ✔️ Clone repo and install [requirements.txt](https://github.com/zahidesatmutlu/yolov5-sahi/blob/master/requirements.txt) in a [Python>=3.7.0](https://www.python.org/downloads/) (3.9 recommended) environment, including [PyTorch>=1.7](https://pytorch.org/get-started/locally/) (1.9.0 recommended).
 
 ```bash
-https://github.com/zahidesatmutlu/yolov5-sahi  # clone
+git clone https://github.com/zahidesatmutlu/yolov5-sahi  # clone
 cd yolov5-sahi
 pip install -r requirements.txt  # install
 ```
