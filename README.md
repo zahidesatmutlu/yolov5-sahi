@@ -1,6 +1,6 @@
 # YOLOv5 + SAHI (Slicing Aided Hyper Inference)
 
-🙌 Added [SAHI](https://github.com/obss/sahi) to [YOLOv5](https://github.com/ultralytics/yolov5) algorithm.
+🙌 Using [SAHI](https://github.com/obss/sahi) with [YOLOv5](https://github.com/ultralytics/yolov5) algorithm.
 
 ## Overview
 
