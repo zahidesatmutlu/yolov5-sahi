@@ -2,7 +2,7 @@
 
 🙌 Using [SAHI](https://github.com/obss/sahi) with [YOLOv5](https://github.com/ultralytics/yolov5) algorithm.
 
-## Overview
+## <div align="center">Overview</div>
 
 💡 Object detection and instance segmentation are by far the most important fields of applications in Computer Vision. However, detection of small objects and inference on large images are still major issues in practical usage. Here comes the SAHI to help developers overcome these real-world problems with many vision utilities.
 
@@ -15,7 +15,7 @@ Standard Inference with a YOLOv5 Model
 Sliced Inference with a YOLOv5 Model (YOLOv5 + SAHI)
 </p>
 
-## Installations ⬇️
+## <div align="center">Installations ⬇️</div>
 
 ✔️ A virtual environment is created for the system. (Assuming you have [Anaconda](https://www.anaconda.com/) installed.)
 
@@ -56,7 +56,7 @@ yolov5-sahi/
     sahi_predict.py
 ```
 
-## Usage 🔷
+## <div align="center">Usage 🔷</div>
 
 ```python
 from sahi.predict import get_prediction, get_sliced_prediction, predict
@@ -115,7 +115,7 @@ If you use this package in your work, please cite it as:
 }
 ```
 
-## Resources 🤝
+## <div align="center">Resources 🤝</div>
 
 🔸 [https://github.com/ultralytics/yolov5](https://github.com/ultralytics/yolov5)
 
