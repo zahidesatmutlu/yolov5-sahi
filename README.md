@@ -88,6 +88,33 @@ predict(
 )
 ```
 
+## <div align="center">Citation</div>
+
+If you use this package in your work, please cite it as:
+
+```
+@article{akyon2022sahi,
+  title={Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection},
+  author={Akyon, Fatih Cagatay and Altinuc, Sinan Onur and Temizel, Alptekin},
+  journal={2022 IEEE International Conference on Image Processing (ICIP)},
+  doi={10.1109/ICIP46576.2022.9897990},
+  pages={966-970},
+  year={2022}
+}
+```
+
+```
+@software{obss2021sahi,
+  author       = {Akyon, Fatih Cagatay and Cengiz, Cemil and Altinuc, Sinan Onur and Cavusoglu, Devrim and Sahin, Kadir and Eryuksel, Ogulcan},
+  title        = {{SAHI: A lightweight vision library for performing large scale object detection and instance segmentation}},
+  month        = nov,
+  year         = 2021,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.5718950},
+  url          = {https://doi.org/10.5281/zenodo.5718950}
+}
+```
+
 ## Resources 🤝
 
 🔸 [https://github.com/ultralytics/yolov5](https://github.com/ultralytics/yolov5)
