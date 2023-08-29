@@ -17,14 +17,14 @@ Sliced Inference with a YOLOv5 Model (YOLOv5 + SAHI)
 
 ## <div align="center">Installations ⬇️</div>
 
-✔️ A virtual environment is created for the system. (Assuming you have [Anaconda](https://www.anaconda.com/) installed.)
+- A virtual environment is created for the system. (Assuming you have [Anaconda](https://www.anaconda.com/) installed.)
 
 ```bash
 conda create -n yolov5sahi python -y
 conda activate yolov5sahi
 ```
 
-✔️ Clone repo and install [requirements.txt](https://github.com/zahidesatmutlu/yolov5-sahi/blob/master/requirements.txt) in a [Python>=3.7.0](https://www.python.org/downloads/) (3.9 recommended) environment, including [PyTorch>=1.7](https://pytorch.org/get-started/locally/) (1.9.0 recommended).
+- Clone repo and install [requirements.txt](https://github.com/zahidesatmutlu/yolov5-sahi/blob/master/requirements.txt) in a [Python>=3.7.0](https://www.python.org/downloads/) (3.9 recommended) environment, including [PyTorch>=1.7](https://pytorch.org/get-started/locally/) (1.9.0 recommended).
 
 ```bash
 git clone https://github.com/zahidesatmutlu/yolov5-sahi  # clone
@@ -32,19 +32,19 @@ cd yolov5-sahi
 pip install -r requirements.txt  # install
 ```
 
-✔️ Install [CUDA Toolkit](https://developer.nvidia.com/cuda-11-6-0-download-archive) version 11.6 and install [PyTorch](https://pytorch.org/get-started/previous-versions/) version 1.9.0.
+- Install [CUDA Toolkit](https://developer.nvidia.com/cuda-11-6-0-download-archive) version 11.6 and install [PyTorch](https://pytorch.org/get-started/previous-versions/) version 1.9.0.
 
 ```bash
 pip install torch==1.9.0+cu111 torchvision==0.10.0+cu111 torchaudio===0.9.0 -f https://download.pytorch.org/whl/torch_stable.html
 ```
 
-✔️ Copy the test folder containing the images you will detect and your best.pt weight file to the project folder.
+- Copy the test folder containing the images you will detect and your best.pt weight file to the project folder.
 
 ```bash
 ./yolov5-sahi/%here%
 ```
 
-✔️ The file structure should be like this:
+- The file structure should be like this:
 
 ```bash
 yolov5-sahi/
@@ -117,6 +117,6 @@ If you use this package in your work, please cite it as:
 
 ## <div align="center">Resources 🤝</div>
 
-🔸 [https://github.com/ultralytics/yolov5](https://github.com/ultralytics/yolov5)
+- [https://github.com/ultralytics/yolov5](https://github.com/ultralytics/yolov5)
 
-🔸 [https://github.com/obss/sahi](https://github.com/obss/sahi)
+- [https://github.com/obss/sahi](https://github.com/obss/sahi)
