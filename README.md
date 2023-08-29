@@ -115,7 +115,7 @@ If you use this package in your work, please cite it as:
 }
 ```
 
-## <div align="center">Resources 🤝</div>
+## <div align="center">Resources</div>
 
 - [https://github.com/ultralytics/yolov5](https://github.com/ultralytics/yolov5)
 
